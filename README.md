@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, sou o Lucas Alves!
+Atualmente trabalho com cargueiro da Gol e suas áreas de negócios.
 
-<!--
-**Lucas-Alves-Santos/Lucas-Alves-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 **Estudante** de Ciência de Dados e Análise de Dados
+- ✈️ **Trabalho** com aviação
+- 🏎️ **Fã** de Fórmula 1
+- 🖥️ Atualmente **focado** em:
 
-Here are some ideas to get you started:
+<div display="inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />
+</div>               
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### **Link:**
+
+<a href="https://www.linkedin.com/in/lucas-alves-191790129?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" />
+</a>
+ 
