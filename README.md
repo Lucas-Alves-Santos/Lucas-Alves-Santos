@@ -7,8 +7,9 @@ Atualmente trabalho com cargueiro da Gol e suas áreas de negócios.
 - 🖥️ Atualmente **focado** em:
 
 <div display="inline">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img src="https://static.wixstatic.com/media/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85,enc_auto/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png" width="50" />&nbsp;&nbsp;
 </div>               
 
 ##
